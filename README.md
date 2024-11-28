@@ -7,6 +7,7 @@ File [tweets.json]() contains Pépito tweets with media from Oct 23 2014 to Nov 
 **Data science**
 - @barbalhofernand https://x.com/ThibautDupre/status/1463553715131101188
 - @ThibautDupre https://x.com/barbalhofernand/status/1622338726453035008
+- @StrayGarfield https://x.com/StrayGarfield/status/1861817494320599186
 
 *Add your project here...*
 
