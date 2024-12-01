@@ -1,7 +1,7 @@
 # Pépito raw data
 
 File [tweets.json](tweets.json) contains Pépito tweets with media from Nov 13 2011 to Nov 23 2024.  
-As a remember, Pépito is born on Aug 04 2007.
+As a reminder, Pépito was born on Aug 04 2007.
 
 ## What has been done
 
